@@ -1,12 +1,8 @@
 # Machine-Leaning-Project
-Data preparation. Exploratory data analysis(EDA) with ML Model
-Choose three different models and compare the results. Also create a NULL model that predicts by 
-calculating the average as shown in the lesson.
-• There are different assumptions that apply to the different models. Are these assumptions met? 
-Examine the data carefully. Can this justify how well or poorly the models work on predicting? You can 
-do feature engineering, ie change the data, to achieve better results in the prediction.
-• Select input features for the model and justify why. Here you should add more powder to the 
-exploratory data analysis part. For example, are there outliers that need to be handled? Are the 
-variables correlated? Make feature selection and see if you can achieve a better result.
-• Results of the prediction analysis. Develop several error metrics, plot results if appropriate for the 
-model. Critically analyze the results of the modeling.
+In this project, I played a key role in a project focused on data preparation, exploratory data analysis (EDA), and model selection. The project involved comparing the results of three different machine learning models, as well as a NULL model that predicted by calculating the average. My responsibilities included examining the data to ensure that the assumptions of each model were met and performing feature engineering to achieve better results in the prediction.
+
+During the project, I carefully selected input features for the model and justified my choices by conducting thorough exploratory data analysis. This involved handling outliers, identifying variables that were correlated, and making a feature selection to achieve a better result.
+
+To evaluate the effectiveness of the models, I developed several error metrics and plotted the results where appropriate. I then critically analyzed the results of the modeling to determine which model was the most effective for predicting outcomes.
+
+Overall, my contributions to this project resulted in a more accurate and efficient prediction model, which was used to drive data-informed decision making.
